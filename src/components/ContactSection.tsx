@@ -50,7 +50,7 @@ const ContactSection = () => {
   };
 
   try {
-    await fetch("http://localhost:5000/api/contact", {
+    await fetch("http://vyapartech.onrender.com/api/contact", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
