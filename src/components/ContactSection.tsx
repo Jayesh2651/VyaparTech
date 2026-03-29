@@ -108,7 +108,7 @@ const ContactSection = () => {
 
                   <Input
                     name="name"
-                    placeholder="Jayesh Patil"
+                    placeholder="Your Name"
                     required
                   />
                 </div>
@@ -176,12 +176,12 @@ const ContactSection = () => {
               <div className="space-y-4">
                 <a href="tel:+919970062565" className="flex items-center gap-4">
                   <Phone size={20} />
-                  <span>+91 99700 62565</span>
+                  <span>+91 XXXXXXXXXX</span>
                 </a>
 
-                <a href="mailto:hello@vyapartech.in" className="flex items-center gap-4">
+                <a href="mailto:vyapartech2@gmail.com" className="flex items-center gap-4">
                   <Mail size={20} />
-                  <span>hello@vyapartech.in</span>
+                  <span>vyapartech2@gmail.com</span>
                 </a>
 
                 <div className="flex items-center gap-4">
