@@ -134,7 +134,7 @@ const ContactSection = () => {
 
                   <Input
                     name="phone"
-                    placeholder="+91 99700 62565"
+                    placeholder="+91 XXXXXXXXXX"
                     required
                   />
                 </div>
@@ -176,7 +176,7 @@ const ContactSection = () => {
               <div className="space-y-4">
                 <a href="tel:+919970062565" className="flex items-center gap-4">
                   <Phone size={20} />
-                  <span>+91 XXXXXXXXXX</span>
+                  <span>+91 9970062565</span>
                 </a>
 
                 <a href="mailto:vyapartech2@gmail.com" className="flex items-center gap-4">
